@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1559308124 source:e:\program_cpp\btree\1\data_make.cpp
+	<cassert>
+	<iostream>
+	<fstream>
+	<string>
+
+1559308124 source:e:\program_cpp\btree\1\data_make_query.cpp
+	<cassert>
+	<iostream>
+	<fstream>
+	<string>
+
+1559308124 source:e:\program_cpp\btree\1\btree.cpp
+	<cassert>
+	<iostream>
+	<string>
+	"BTree.hpp"
+
+1559443107 e:\program_cpp\btree\1\btree.hpp
+	<functional>
+	<cstddef>
+	"exception.hpp"
+	<cstdio>
+
+1559308124 e:\program_cpp\btree\1\utility.hpp
+	<utility>
+
+1559308124 e:\program_cpp\btree\1\exception.hpp
+	<cstddef>
+	<cstring>
+	<string>
+
+1559308124 source:e:\program_cpp\btree\1\data_make_erase.cpp
+	<cassert>
+	<iostream>
+	<fstream>
+	<string>
+
